@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+env/
+venv/
+ENV/
+.env
+
+# VS/VSCode
+.vs/
+.vscode/
+
+# Project specific
+*.zip
+client_build.py
+optimized_client_build.py
+server_build.py
+/Khonshu v1/vosk-model-small-en-us-0.15/
+/Khonshu v1/build/
+/Khonshu v1/dist/
+/Khonshu v1/__pycache__/
+Khonshu v1/actions_log.txt
+/Khonshu v1/passive_hearing_log.txt
+/Khonshu v1/passive_hearing_log.txt
+
+# Logs
+*.log
+
+# PyInstaller
+*.manifest
+*.spec

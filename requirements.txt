@@ -1,0 +1,15 @@
+pygame
+requests
+PyQt5
+pynput
+pyttsx3
+configparser
+pyautogui
+obswebsocket
+pydirectinput
+google-generativeai
+pyaudio
+SpeechRecognition
+vosk
+comtypes
+pycaw

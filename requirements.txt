@@ -5,7 +5,8 @@ pynput
 pyttsx3
 configparser
 pyautogui
-obswebsocket
+obs-websocket-py
+obsws-python
 pydirectinput
 google-generativeai
 pyaudio
